@@ -8,7 +8,7 @@ description: What are the steps needed to give someone a great experience.
 #### Setup
 
 We don't do phone screens at Artsy. We strive for informationals with engineers. These are usually a coffee/tea
-with someone at Artsy who will be there to answer questions about the business and try to understand whether you've
+with someone at Artsy who will be there to answer questions about the business and try to understand whether you're
 likely to succeed at Artsy.
 
 If you're going to start an informational from scratch, you're probably going to want to start the conversation
